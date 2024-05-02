@@ -1,2 +1,2 @@
-tensorflow
-web.py
+tensorflow==2.16.1
+web.py==0.62
